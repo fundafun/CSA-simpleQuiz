@@ -1,4 +1,4 @@
-/* Creator: Aryaa Mutha
+/*
 Date: 09/16/2024
 Purpose: Simple calculator
  */
